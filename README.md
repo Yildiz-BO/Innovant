@@ -1,10 +1,13 @@
 # Innovant
 
-WEBSITE
- yarn install
- yarn run dev
+#WEBSITE
+
+yarn install
+
+yarn run dev
  
- API
+ #API
  
  yarn install 
+ 
  yarn start
